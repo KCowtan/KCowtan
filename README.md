@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KCowtan
-- 👀 I’m interested in ... observational temperature biases
+- 👀 I’m interested in ... biases in historical temperature observations
 - 🌱 I’m currently learning ... MCMC, BMA
 - 💞️ I’m looking to collaborate on ... CRUTEM5, GloSAT
 - 📫 How to reach me ... email
