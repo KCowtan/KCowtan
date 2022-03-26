@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... MCMC, BMA
 - 💞️ I’m looking to collaborate on ... CRUTEM5, GloSAT
 - 📫 How to reach me ... email
-- ⚧ My pronouns are ... they/them (but I tolerate he/him)
+- ⚧ My pronouns are ... they/them
 
 <!---
 KCowtan/KCowtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
